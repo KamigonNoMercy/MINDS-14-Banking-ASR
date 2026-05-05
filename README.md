@@ -128,6 +128,10 @@ A few characteristic error modes survive:
 
 ---
 
+## Notes
+
+This repository focuses on building a complete sentiment classification pipeline starting from data analysis and preprocessing up to baseline comparison and final model selection. For a more detailed explanation of the workflow, exploratory data analysis, preprocessing steps, model experiments, and evaluation results, please refer to our Jupyter Notebook (`.ipynb`) files.
+
 ---
 
 ## Contributor (NLP Group C)
