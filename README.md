@@ -149,6 +149,7 @@ minds14-asr-wav2vec2-whisper/
 ├─ Project3.ipynb              # Full end-to-end notebook (EDA -> preprocess -> baseline -> fine-tune -> compare)
 ├─ baseline_predictions.xlsx   # Test-set predictions: reference / wav2vec2-base / whisper-base
 ├─ predictions_all.xlsx        # All four conditions side-by-side: ref / w2v2-base / w2v2-ft / whisper-base / whisper-ft
+├─ Voice Recognition Model_Presentation.pdf # Project Presentation
 └─ requirements.txt
 ```
 
